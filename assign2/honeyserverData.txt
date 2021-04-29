@@ -1,0 +1,14 @@
+abhay 5
+akshay 1
+alice 6
+chirag 6
+hemant 1
+jagrat 6
+karan 4
+mahima 3
+mayank 5
+saksham 3
+sumit 4
+sunita 4
+sunny 4
+vaibhav 2

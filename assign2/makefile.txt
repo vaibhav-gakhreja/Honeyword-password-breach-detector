@@ -1,0 +1,8 @@
+Name : vaibhav gakhreja
+Roll number : 1801cs58
+
+Compile the honeychecker server : gcc honeywordServer.c -o honeywordServer
+Compile the honeyword generator : gcc honeywordGenerator.c -o honeywordGenerator
+Run the honeyword generator : ./honeywordGenerator
+
+Note that the honeyword server is not directly used by the user, its executable is called by the honeyword generator program.
